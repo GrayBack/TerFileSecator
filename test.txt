@@ -1,0 +1,211 @@
+AFRISTORY;Histoire coloniale et Développement en Afrique
+LEDEPAGOD;Leadership et décision partagés dans des agencements organisationnels dispersés confrontés à des situations risquées
+MADAS;Évaluation des données recueillies par les enquêtes et les recensements pour estimer la mortalité aux âges adultes en Afrique sub-saharienne
+STRIPAP;STress et RIsques Psychosociaux au travail :Acteurs et Pratiques. Le développement de dispositifs liés au « stress » dans les entreprises
+UNPEC;Les parcs nationaux dans les métropoles des pays émergents
+AMUSIA;Déficits de perception et mémoire auditives dans l’amusie congénitale : vers une rééducation multisensorielle
+DyTO;Dynamique des Traitements Orthographiques
+Neolocom;Qu'est qui fait marcher les nouveaux-nés?
+PlasMody;Plasticité et Multimodalité pour la Communication Orale chez le Sourd
+Pro STC;Traitement des informations temporelles du signal de parole : aspects développementaux précoces
+CINEPOP50;Cinémas et cinéphiles populaires en France 1945-1958
+MAGDATIS;Des chasseurs-cueilleurs face aux changements environnementaux: le Magdalénien au Tardiglaciaire
+MUSICONIS;Représentations du son au Moyen Age
+MSFIMA;Les Mille et une nuits: sources et fonctions dans l’Islam médiéval arabe
+ARCHIZ;Du manuscrit à l’image: pour une génétique culturelle
+AMATIS;Analyse Multifractale et Applications en Traitement d’Image et du Signal
+Calibration;Calibration statistique DiscGroup Facettes des Groupes discrets
+GR-Analysis-Geometry;Relativité Générale Mathématique. Analyse et géométrie des espaces-temps peu réguliers
+HOGT;Homotopie algébrique, Opérades et groupes de Grothendieck-Teichmüller
+MEMOVE;Modélisation multi-échelle de l'électroporation validée par les expériences
+OSQPI;Interactions entre espaces d'opérateurs et probabilités quantiques et leurs applications à l'information quantique
+ThéHopaD;Théorie de Hodge p-adique et développements
+TOMMI;Transport Optimal et Modèles Multiphysiques de l'Image
+AVENTURES;Analyse variationnelle en tomographie photoacoustique, thermoacoustique et ultrasonore
+Finsler;Géométrie de Finsler et applications
+DigitalSnow;Géométrie discrète et mathématiques. appliquées pour la métamorphose de neige.
+DISPLEXITY;Calculabilité et complexité en distribué.
+HYBRIDE;Hybridation de la fouille de données et du traitement automatique des langues.
+LEGOS;Evaluation de l’apprentissage sesnorimoteur dans des systèmes intéractifs geste-son.
+REACHARD;Problèmes d'accessibilité difficiles pour les systèmes à compteurs.
+RECRE;Réalisabilité pour la logique classique, la concurrence, les références et la réécriture.
+PAVOIS;Protections Arithmétiques Vis à vis des attaques physiques pour la cryptOgraphIe basée sur les courbeS elliptiques.
+ARROW;Robots Rapides et Précis avec un large Espace de Travail Opérationnel
+GEOLMI;Geométrie et algèbre des inégalités matricielles linéaires avec applications en commande
+GRAAL;Laser de la colonne IV basé sur le germanium dopé n contraint en tension
+OSMOTUS;OScillateur Micro-onde à THz Ultra-Stable
+Smart Blocks;une surface modulaire et reconfigurable composée de MEMS pour le transport rapide d’objets fragiles et de produits pharmaceutiques
+HYPANEMA;Algorithmes de démélange non linéaire pour l’analyse de données hyperspectrales
+IMPULCEM;Nouvelle méthode de mesure CEM haute résolution en CRBM pour les fréquences allant jusqu'à 40 GHz : Application à des connecteurs très haut débit
+CRESUSOL;Cinétique te détermination des rapports de branchements de processus collisionnels à très basses températures
+EMA;Nanofils Magnétiques en matrice
+ICLM;Imagerie Cohérente de Lumière multi-diffusée
+IQHAR;Interaction dans le régime d'effet Hall quantique
+ODACE;Ordre et désordre dans les édifices cristallins apériodiques Ondes non-linéaires et turbulence en fluides stratifiés et tournants
+PIPERADE;Piège de Penning pour des ions radioactifs à Désir
+SNS;Détection de résonance de spin du mangénèse par spectroscopie de bruit de spin
+SPLAM;Développement de détecteurs Micromegas de grande taille pour la détection de particules à haut flux
+Walkmat;Marcheurs browniens répulsifs et matrices aléatoires
+QUBIC;Interférométrie bolométrique pour la recherche des modes B de polarisation du fond diffuscosmologie
+WAFPI;Mouillage, adhésion et friction aux interfaces texturées
+DYMAGE;Effet Magnétoélectrique dymanique: étude expérimentale et théorique des électromagnons
+ASIV;Interactions Océan-Atmosphère. Influence des gradients de SST et de la haute résolution sur la variabilité atmosphérique
+AVSGeomag;Assimilation de données de la variation séculaire du champ géomagnétique dans des modèles dynamiques du noyau terrestre
+DEGAZMAG;Ascension et dégazage des magmas basaltiques :cinétiques et implications pour la dynamique éruptive et le cycle géochimique des éléments volatils
+FLOODSCALE;Observation et modélisation multi-échelles pour la compréhension et la simulation des crues éclair
+MULTIVERSE;Etude multi-échelles de l’évolution des structures de l’Univers
+OGRESSE;Grains cométaires et évolution du système solaire primitif : analyses isotopiques de micrométéorites polaires cométaires
+RTCCSN;Modélisation par transfert radiatif des supernovae formées par l'effondrement du cœur d’étoiles massives
+S4;Subduction Standard & Slow Seismology
+SOUMET;Rôle du soufre dans le devenir des métaux d'intérêt économique dans les fluides géologiques
+STARFICH;Vers une vision unifiée de la formation stellaire dans les galaxies : Origine de la structure filamentaire du milieu interstellaire, des cœurs pré- stellaires et des amas protostellaires vus avec Herschel
+WaveSIMM;Etude de la banquise par analyse des ondes sismiques
+CIMMES;La poussière interstellaire froide : études expérimentales et modélisation
+MEGA-Chile;Mega-séismes au Chili: Exemple de Maule en 2010 (Mw 8.8) et implications sismo-tectoniques
+AMPHICTOT;Synthèse totale des amphidinolides C, C2 et F:Des produits naturels d'origine marine prometteurs dans la thérapie anti-cancéreuse.
+BioSyngOp;Etudes operando en température et pression de la conversion du gaz de synthèse chargé de poisons typiques issus de la biomasse en méthane et hydrocarbures supérieurs.
+BIPHASNANOCAT;Nouvelle approche en catalyse biphasique par confinement du catalyseur dans des polymères cœur-coquille de taille nanométrique.CarboChromMatCarbo-chromophores quadripolaires et alpha-graphyne.
+Click-unclick;Assemblage/désassemblage de systèmes prodrogue innovants grâce à une stratégie de chimie Click-Unclick.
+COPPERTREE;Traitement antibiofilm de surface par depot multicouches de dendrimères et de nanoparticules de cuivre.
+HOME-OLED;Design de Matériaux hôtes pour des Diodes Organiques Electrophosphorescentes bleues haute performance : une nouvelle approche.
+IBEF;Inhibition des Pompes d’Efflux Bactériennes.
+OEREKA;Réactions Enantiosélectives Organocatalysées à partir de Cétoamides.
+OPTOELECTR-OM;Ligands orgnometalliques: une nouvelle stratégie pour construire des assemblages de coordinatio luminescents pour l’aptoélectronique
+ReBAB;Activation distante de liaisons B-H dans des boranes multidentés non-conventionnels.
+SPIROSYN;Synthèse totale du 13-desmethyl spirolide C.
+P2MOC;Plateforme Moléculaire Modulable: un Outil pour la Catalyse.
+FLUORCAT;Fluoration catalytique d'aromatiques chlorés :synthèses d'intermédiaires fluorés pour l'industrie pharmaceutique et agrochimique.
+TMCP3;Complexes de métaux de transition à ligands carbéniques alpha-P-substitués : de la synthèse aux études de densités de charges.
+SCATE;Addition Conjuguée Asymétrique Sequentielle 1,6/1,4 et piégeages d’énolates: Applications en synthèse de produits naturels
+HIMO2;Imogolites hybrides et fabrication de membranes ayant une nanostructuration optimisée.
+HYSIKIT;Nano-composites hybrides silice-chitine par auto-assemblage colloïdal
+NanoChalco;Organisation de Nanochalcogénures à l’aide de Liquides Ioniques
+PH2MR;Accroissement de la sensibilité en résonance magnétique par le biais du para-hydrogène (pH2)
+SLiM;Membranes électrolytes solides à porteur de charge Li+
+TEAM;Nouvelles fonctionnalités des matériaux amorphes à base de tellure
+XLproteinSSNMR;La RMN du solide pour des protéines extra-larges (XL): études structurales du prion Sup35 dont la masse moléculaire est 75kDa
+SYNAMMOSEG;Synthèse de nouvelles architectures macromoléculaires aromatiques et hétérocycliques par un procédé non conventionnel de polycondensation. Matériaux originaux pour une application en séparation gazeuse
+BATGAN;Convertisseur d'energie betavoltaiques a base de nitrure de gallium
+CAGIMA;Conception acoustique globale d'instruments de musique à anche justes et homogènes
+DISCERN;Sources directe et indirect en combustion pour la mesure et la réduction du bruit
+EDDAM;Elaboration, démixtion et déformation des matériaux amorphes suivies par microtomographie in-situ
+ILTO;Impression laser de transistors organiques en films minces
+INSICOMB;Combustion en milieu poreux in situ: effets des hétérogénéités et changement d'échelle de systèmes réactifs
+LUDACism;Ultrasons laser dans les cellules à enclume de diamant pour l'étude des composés moléculaires simples à ultra-hautes pressions
+MALICE;Analyse multiéchelle de la croissance osseuse chez l’enfant : une approche conjointe par imagerie ultrasonore et une modélisation biomécanique
+MicroCat;Microfluidique catalytique
+MICROSTRESS;Hétérogénéités du champ de contraintes à l’échelle du (sub)micromètre dans les polycristaux élasto-plastiques
+PLASMAFLAME;Effets cinétiques et hydrodynamiques dans les interactions plasma-flamme
+PLAYER;Simulation de la dynamique de particules inertielles non sphériques en couche limite turbulente.
+SePaCoDe;Étude de la Physique du Décollement et Réalisation de son Contrôle
+SiCoMHD;Simulation de la turbulence magnétohydrodynamique confinée
+OMBIOS;Optimisation et Modélisation d’un Bioréacteur pour la production d’un greffon osseux à l’aide de cellules souches
+WASP;Addition d'eau en suspension dans les polymères fondus
+HELICE;Sillages de Tourbillons Hélicoïda
+3D BROM;Microscopie holographique 3D et mouvement Brownien
+ESPERADO;Effets du couple de transfert de spin et des champs Rashba et Oersted sur la dynamique de parois
+EXTREME;EXciTation REsonnante de boîtes quantiques seMiconductrices pour la génération d’états non classique de la lumièrE (EXTREME)
+NANOKAN;Spectroscopie de charges élémentaires et de moments dipolaires sub-10 Debye sur des systèmes modèles, moléculaires ou à l’état solide
+NanoSWITI;Nanoscale manipulation of spin waves in itinerant ferromagnets: technologies and fundamentals
+TWINS;Architectures hybrides pour des antennes brillantes et directionnelles
+WIFO;Composant d’optique quantique avancée basé sur un fil photonique
+Nano-CoPter;Nanoalliages ternaires à base de cobalt-platine
+Meta-SPP;Nanorésonances magnétiques pour les plasmons de surface
+Betaxcitability;Métabolisme et canaux ioniques: Physiologie du canal ionique NALCN dans la cellule beta-pancréatique.
+BeyondTASKs;Gènes et voies de signalisation qui régulent la production d'aldostérone: implications pour la pathogenèse de l'hyperaldostéronisme primaire.
+CRISALIS;Dialogue entre le signal insuline et le lipidome dans la stéatose
+DiamiRs;Risque accru de résistance à l’insuline et de diabète suite à des conditions intra-utérines délétères : rôle des microARNs OBBERGHEN
+GSD1;Glycogénose de type 1a : de la physiopathologie à la thérapie génique du foie
+GWIS-AM;Etudes d’interactions pan-génomiques de maladies liées au système immunitaire : l’asthme et le paludisme
+MLT2D;Les récepteurs de la mélatonine dans le développement du diabète de type 2 chez l’homme
+NAFLD-citrulline;Arginine, glutamine, citrulline et pathogenèse des stéatoses hépatiques non alcooliques (NAFLD)
+READ;CD146 et JAMs dans le contrôle de l’intégrité des junctions endothéliales : des bases moléculaires aux maladies inflammatoires rénales.
+RFX-PancInt;Rfx6: Rôle dans la différenciation et la fonction des cellules endocrines pancréatiques et intestinales
+SYBECAR;Bioénergétique systémique de pathologie cellulaire cardiaque
+Thrombocytosis;Mécanismes des thrombocytoses acquises et familiales
+VRAC8;Remodelages vasculaires et Adenylyl Cyclase 8
+BCNCT;Bénéfices Cardiovasculaires d’une Nouvelle Cible Thérapeutique Hypolipémiante.
+REDUC;Anomalies du Stress du Réticulum Endoplasmique dans la Rectocolite Hémorragique : Influences Génétiques, Environnementales et Perspectives Thérapeutiques
+PIG;Etude des récepteurs couplés aux protéines G et de l’EGFR podocytaire et mésangial au cours des glomérulonéphrites prolifératives
+AXOMORPH;Compréhension dynamique et quantitative de la formation d'un axe de polarité chez la drosophile
+CHARMFUL;Caractérisation de la fonction méristématique de LEAFY
+drosohemoniche;La niche hématopoïétique chez la Drosophile et le contrôle de la differenciation des cellules sanguines
+epimuscle;Contrôle épigenetique du développement et de la physiologie musculaire par les histones demethylases.
+MorphoDro;Morphogenèse des tissus épithéliaux prolifératifs chez la drosophile
+nanoOSCAR;Développement d'un implant nanostructuré à base de cellules souches à des fins d' ingénierie ostéochondrale
+RETROscreen;Génétique chimique de la voie du transport rétrograde
+RetroWASH;Remodelage des membranes endosomales par deux machines moléculaires en interaction, le Retromer et le complexe WASH
+ThRaSt;Réseaux signalétiques dépendants des hormones thyroïdiennes et physiologie des cellules souches adultes
+TranspoFertil;Activité des transposons dans la lignée germinale et leur impact sur la fertilité mâle
+EpiNodal;Bases moléculaires de la maturation de l'épiblaste
+FINEST;Caractérisation des cellules souches neurales du cerveau moyen du poisson
+Symmetry Breaking in Oocytes;Synergie entre deux réseaux d’actine dans la
+division méiotique ovocytaire
+CROSSTOX;Contrôle par la cellule-hôte et le parasite Toxoplasma gondii de la présentation des antigènes parasitaires par les molécules du CMH de classe I
+EPILIS;Reprogrammation épigénétique par la bactérie pathogène Listeria monocytogenes
+GenRift;Identification de voies cellulaires et de gènes clés pour la pathogénicité et la résistance au virus de la fièvre de la Vallée du Rift
+Ikaros-in-Lymphocytes;Fonction des protéines de la famille Ikaros dans le développement des lymphocytes
+MALEMAF;Recherche de pathogènes émergents en Afrique
+MeniViruCarb;Rôle de la protéine HPr, composant du PTS, dans la
+pMHCantigenicity;Bases cellulaires et structurales de l'antigénicité des complexes CMH/peptide chez l'homme
+PRI-MAL;Caractérisation de Plasmodium chez les chimpanzés, gorilles et bonobos sauvages et les Hommes vivant en forêt tropicale afin d'évaluer si les grands singes sont le réservoir des espèces plasmodiales humaines
+ReNEW;Mécanismes d'autorenouvellement des macrophages différenciés
+S2E_Thei;Le remodelage de l'épigénome de la cellule hôte par le parasite Theileria au cours de la transformation leucocytaire
+SUMO and IFN;Rôle de SUMO dans la voie interféron :identification des protéines SUMOylées en réponse aux interférons
+EMERGPRION;Emergence de nouvelles souches de prion lors de transmissions inter-spécifiques:évaluation expérimentale des risques associés aux formes atypiques d’encéphalopathie spongiforme bovine
+AstroConSyn;Contrôle de la transmission synaptique par la connexine 30 astrogliale: bases moléculaires et impact sur l’activité de réseau pathologique
+BrainEver;Transduction des homéoprotéines, périodes critiques et plasticité corticale
+CorteXcell;Les mécanismes corticaux de l'apprentissage associatif et de ses troubles dans le syndrome de l'X Fragile
+DELTAplane;Les récepteurs orphelins GluRdelta sont activés par les récepteurs métabotropiques du glutamate : nouveaux mécanismes et nouvelles fonctions glutamatergiques
+LU2;L’apprentissage sous incertitude: dynamique fonctionnelle du traitement de l’information dans les circuits fronto-striataux
+MemoNetworks;Analyse fonctionnelle et par imagerie in vivo de réseaux neuronaux impliqués dans l'apprentissage olfactif et la mémorisation chez la drosophile
+PROMOMY;comprendre et promouvoir la remyelinysation chez la souris.
+REPREK;Régulation des canaux Kv1 pré-synaptique: rôle de LGI1 et implications dans la plasticité de l'excitabilité intrinsèque et l'épilepsie
+TREK PAIN;Implication des canaux ioniques TREK dans la physiopathologie et la pharmacologie de la douleur
+TrkBDNFarmod;Modulations pharmacologiques de la voie BDNF-TrkB dans des modèles de dépression et de douleurs chroniques
+MotorSensation;Organisation anatomo-fonctionnel masquée du cortex sensorimoteur chez l’homme
+GRASP;Contrôle cortical des mouvements de saisie manuelle : du singe au robot
+PNAS;Addiction et plasticité des systèmes noradrénergiques et sérotoninergiques
+aRIT/ßPET;Haptènes radiomarqués à l’211At ou au 64Cu pour une approche de vectorisation en deux temps (Affinity Enhancement System)
+ChromAct;Interactions des co-activateur de transcription TFIID, ATAC et SAGA avec la chromatine
+EARMEC;Propriétés mécaniques, actives et passives, de la touffe ciliaire des cellules mécano-sensorielles ciliées le long de l’axe tonotopique de la cochlée des mammifères.
+Light-GatedP2XR;Photo-régulation de l’activité canal du récepteur purinergique de type P2X : détermination de la stœchiométrie d’activation
+MC2;Structure et Fonction du Cofacteur à Molybdène
+MorFor;Mécanique in vivo durant la morphogenèse des tissus
+NANOLUC;Evaluation biologique in vivo de nanovecteurs ciblants à base de polysaccharides pour le traitement du cancer du poumon
+REGENR;Modélisation Mathématique et Physique de la Réparation Régénérative
+SeediEPR;Spectroscopie par résonance paramagnétique électronique haut champ d'organismes entiers
+NANOMITO;Nano-capteurs pour des études métaboliques à l’échelle de la mitochondrie
+Bieau;Combining experimental and computational methods to study the impact of biomolecular hydration water on protein dynamics: application to intrinsically disordered proteins and solvent-free protein-polymer hybrids
+CaSta DivA;Identification du dialogue moléculaire entre la division du chloroplaste et le métabolisme de l’amidon
+DYGEVO;Dynamique et évolution des génomes de levures,modèles eucaryotes unicellulaires
+HARTaGeNe;Gènes cibles du récepteur aux androgènes dans le système nerveux humain : une approche du biais de sexe dans des pathologies neurodéveloppementales
+INHERIT;Interpréter les variations nucléosomales héritables
+O2StressAnaerob;Détoxication de l'Oxygène chez les bactéries anaérobies :génomique fonctionnelle et bioénergétique des oxygène réductases
+PAGE;Evolution des génomes de Plantes et Animaux
+STOCHAGENE;Rôle de la dynamique chromatinienne dans la stochasticité de l’expression génique dans des cellules d’eucaryotes supérieurs
+TB GlycoPrOmics;Impact de la O-glycosylation des proteines de Mtb sur la virulence du bacille: Définition structurale et fonctionnelle du glycoprotéome de Mycobacterium tuberculosis
+GAMMATOLERANS;Exploration des mécanismes de radiotolérance de l'archée Thermococcus gammatolerans par des approches protéomiques innovantes
+Acoustic partnership;Un partenariat acoustique : la communicationvocale comme pierre angulaire de la monogamie chez les oiseaux
+CLONIX;Une révision en profondeur de la Génétique des Populations et de laénomique des Organismes clonaux
+ECORUM;Signification écologique du quorum quenching dans les environnements rhizosphère et plantes
+GIME;Interactions génomiques et efficacité de la transmission de Plasmodium falciparum chez Anopheles gambiae
+GrowinAP;Diversité de la croissance humaine. La croissance chez les Pygmées africains
+MyctO-3D-MAP;Distribution et habitats en trois dimensions des poissons- lanternes: utilisation conjointe de données fournies par leurs prédateurs, l'écho-intégration et la modélisation
+PHYTOIRON;Mechanisms of iron assimilation in marine micro-algae
+TRANS;Les transitions de systèmes de reproduction chez les angiospermes et leurs conséquences génomiques;
+TROPIC;Analyse et modélisation des réactions gravi-et phototropiques chez les arbres
+EVOLCHOR;évolution de choeur chez les animaux acoustiques
+EVOREGIM;Immuno-Ecologie et immunopathologies :importance évolutive de l'inflammation et de sa régulation.
+ArenaBunya-L;Structures, mécanismes, et conception d’inhibiteurs des protéines L des Bunyavirus et Arenavirus
+BRONCHIOLITEASER;Etude structurale et fonctionnelle du complexe polymérase du virus respiratoire syncytial et recherche d’inhibiteurs
+Dynarpin;Structure, dynamique et mécanisme d’Arpin, un nouvel inhibiteur du complexe Arp2/3 qui contrôle la migration cellulaire
+EJCbirth;Impacts de la transcription par l’ARN polymérase II sur l’assemblage de l’EJC
+Hsp90assembly.com;La machinerie Hsp90-R2TP et l’assemblage de complexes macromoléculaires: rôle dans la biogenèse des RNP.
+IntegraMed;Etude intégrative de la fonction du Médiateur dans la régulation de la transcription.
+Pilipath;Assemblage moléculaire du pilus chez S.pneumoniae. Exploitation biotechnologique d’une boîte à outils conçue par la nature
+PinGS;Contrôle de la prolifération cellulaire et de la stabilité génétique par les enzymes p400 et Tip60
+STANDPRION;Propagation d’un repliement amyloïde comme mode de transmission du signal d’une protéine STAND à une protéine prion
+STRUCTOXIC;Relation structure-propriétés des agrégats protéiques impliqués dans les maladies neurodégénératives de Parkinson et Huntington
+RNAJAY;Métabolisme de l’ARNm et expression génétique chez Bacillus subtilis : une étude fonctionnelle et structurale des deux nouvelles ribonucléases Y et J IronPath:;Spécificités et complexicité des voies d’acquisition du fer chez Pseudomonas aeruginosa sensor:Analyse structure-fonction de senseurs de pathogène fixant des composés de tumeurs de plante
+ESCRT_ARC :;Caractérisation structurale et fonctionnelle des protéines impliquées dans les déformations membranaires chez archées
